@@ -1,0 +1,5 @@
+#Ignoring README.md
+README.md
+
+#Ignoring .doc files
+*.doc
